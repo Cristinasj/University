@@ -69,7 +69,7 @@ Total credits: 12
 ||||Done Doing To do|[]()|6|
 ||||Done Doing To do|[]()|6|
 
-#### 1.4.2 Lenguages: 
+#### 1.4.2 Languages: 
 
 Total credits: 12 
 
