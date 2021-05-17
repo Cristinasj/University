@@ -64,11 +64,10 @@ Total credits: 30
 
 #### 1.4.1 Subjects: 
 
-Total credits: 12
+Total credits: 6
 
 |Acronym|Real name |English translation|State|link to folder|Credits worth|
 |-------|----------|-------------------|-----|--------------|-------------|
-||||To do|[]()|6|
 ||||To do|[]()|6|
 
 Candidates: 
@@ -102,6 +101,19 @@ Total credits: 12
 Total credits: 12
 
 To do (12 credits)
+
+#### 1.4.4 Delegate of my class
+
+Total credits: 2 
+
+- During my second year: doing
+- During my third or fourth year: to do 
+
+#### 1.4.5 Cultural activities 
+
+Total credits: 4
+
+- MOOC Machine Learning y Big Data para la Bioinformática 2nd Edition
 
 
 ### 1.5 TFG / End of degree project
