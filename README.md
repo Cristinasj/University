@@ -64,10 +64,11 @@ Total credits: 30
 
 #### 1.4.1 Subjects: 
 
-Total credits: 6
+Total credits: 12
 
 |Acronym|Real name |English translation|State|link to folder|Credits worth|
 |-------|----------|-------------------|-----|--------------|-------------|
+||||To do|[]()|6|
 ||||To do|[]()|6|
 
 Candidates: 
@@ -91,7 +92,7 @@ Candidates:
 
 #### 1.4.2 Languages: 
 
-Total credits: 12 
+Total credits: 6
 
 - English B2 Done (2 credits)
 - English C1 To do (4 credits)
