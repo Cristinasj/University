@@ -33,7 +33,7 @@ Total credits: 90
 |ALG|Algorítmica|Algorithmics|Doing|[]()|6|
 |FIS|Fundamentos de Ingeniería del Software|Software Engeniering Fundamentals|Doing|[]()|6|
 |AC|Arquitectura de computadoras|Computer Architechture|Doing|[]()|6|
-|IA|Inteligencia Artificial|Artificial Intelligence|Doing|[]()|6|
+|IA|Inteligencia Artificial|Artificial Intelligence|Doing|[chatBot](https://github.com/Cristinasj/chatBot)|6|
 |FBD|Fundamentos de Bases de Datos|Databases Fundamentals|Doing|[]()|6|
 |DDSI|Diseño y Desarrollo de Sistemas de Información|Information Systems Development|To do|[]()|6|
 |FR|Fundamentos de redes|Networks Fundamentals|To do|[]()|6|
