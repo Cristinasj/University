@@ -4,118 +4,70 @@
 
 ### 1.1 Basic 
 
-Total credits: 60 
-
-|Acronym|Real name |English translation|State|link to folder|Credits worth|
-|-------|----------|-------------------|-----|--------------|-------------|
-|ALEM|Álgebra Lineal y Estructuras Matemáticas|Lineal Algebra and Mathematical Structures|Done|[]()|6|
-|CA|Cálculo|Calculus|Done|[]()|6|
-|FP|Fundamentos de programación|Programming fundamentals|Done|[]()|6|
-|FFT|Fundamentos físicos y tecnológicos|Physics and technology fundamentals|Done|[]()|6|
-|FS|Fundamentos del Software|Software Fundamentals|Done|[]()|6|
-|ES|Estadística|Statistics|Done|[]()|6|
-|IES|Ingeniería empresa y sociedad|Enterprise and Engenieering|Done|[]()|6|
-|LMD|Lógica y metodos discretos||Done|[]()|6|
-|MP|Metodologçia de la programación||Done|[]()|6|
-|TOC|Tecnología y Organización de Computadores|Computer Organization and Architecture|Done|[]()|6|
+|Acronym|About|State|
+|-------|----|-----|
+|ALEM|Lineal Algebra|✔|
+|CA|Calculus|✔|
+|FP|Programming fundamentals|✔|
+|FFT|Electronics|✔|
+|FS|Software Fundamentals|✔|
+|ES|Statistics|✔|
+|IES|Enterprise and Engenieering|✔|
+|LMD|Logic and Descrete Mathematics|✔|
+|MP|Low level programming|✔|
+|TOC|Computer Organization and Architecture|✔|
 
 ### 1.2 Specific 
 
-Total credits: 90 
+|Acronym|About|State|
+|-------|-----|-----|
+|ED|Data Structures|✔|
+|EC|Computer Organization|✔|
+|PDOO|Object Oriented Programming|✔|
+|SCD|Distributed and Concurrent programming|✔|
+|SO|Operating Systems|✔|
+|ALG|Algorithmics|✔|
+|FIS|Software Engeniering Fundamentals|✔|
+|AC|Computer Architechture|✔|
+|[IA](https://github.com/Cristinasj/chatBot)|Artificial Intelligence|✔|
+|FBD|Databases Fundamentals|✔|
+|DDSI|Information Systems Development|✍|
+|FR|Networks Fundamentals|✍|
+|IG|Graphics Computing|✍|
+|ISE|Server Engeniering|✍|
+|MC|Computing Models|✍|
 
-|Acronym|Real name |English translation|State|link to folder|Credits worth|
-|-------|----------|-------------------|-----|--------------|-------------|
-|ED|Estructura de Datos|Data Structures|Done|[]()|6|
-|EC|Estructura de Computadores|Computer Organization|Done|[]()|6|
-|PDOO|Programación y Diseño Orientado a Objetos|Object Oriented Programming|Done|[]()|6|
-|SCD|Sistemas Concurrentes y Distribuidos|Distributed and Concurrent programming|Done|[]()|6|
-|SO|Sistemas Operativos|Operating Systems|Done|[]()|6|
-|ALG|Algorítmica|Algorithmics|Doing|[]()|6|
-|FIS|Fundamentos de Ingeniería del Software|Software Engeniering Fundamentals|Doing|[]()|6|
-|AC|Arquitectura de computadoras|Computer Architechture|Doing|[]()|6|
-|IA|Inteligencia Artificial|Artificial Intelligence|Doing|[chatBot](https://github.com/Cristinasj/chatBot)|6|
-|FBD|Fundamentos de Bases de Datos|Databases Fundamentals|Doing|[]()|6|
-|DDSI|Diseño y Desarrollo de Sistemas de Información|Information Systems Development|To do|[]()|6|
-|FR|Fundamentos de redes|Networks Fundamentals|To do|[]()|6|
-|IG|Informática Gráfica|Graphics Computing|To do|[]()|6|
-|ISE|Ingeniería de Servidores|Server Engeniering|To do|[]()|6|
-|MC|Modelos de Computación|Computing Models|To do|[]()|6|
+### 1.3 Specialty (CSI) Intelligent Systems and Computing
 
-### 1.3 Specialty (CSI) 
-
-Computación y Sistemas Inteligentes /Intelligent Systems and Computing/
-
-Total credits: 48 
-
-|Acronym|Real name |English translation|State|link to folder|Credits worth|
-|-------|----------|-------------------|-----|--------------|-------------|
-|AA|Aprendizaje Automático|Machine Learning|To do|[]()|6|
-|IC|Ingeniería del Conocimiento|Knoledge Engenieering|To do|[]()|6|
-|MH|Metaheurísticas|Metaheuristics|To do|[]()|6|
-|MAC|Modelos Avanzados de Computación|Advanced Computing Models|To do|[]()|6|
-|NPI|Nuevos Paradigmas de Interacción|New Interacting Paradigms|To do|[]()|6|
-|PL|Procesadores de Lenguajes|Languages Procesing|To do|[]()|6|
-|TSI|Técnicas de los sistemas inteligentes|Intelligent Systems Techniques|To do|[]()|6|
-|VC|Visión por Computador|Computer Vision|To do|[]()|6|
+|Acronym|About|State|
+|-------|-----|-----|
+|AA|Machine Learning|🕖|
+|IC|Knoledge Engenieering|🕖|
+|MH|Metaheuristics|🕖|
+|MAC|Advanced Computing Models|🕖|
+|NPI|New Interacting Paradigms|🕖|
+|PL|Languages Procesing|🕖|
+|TSI|Intelligent Systems Techniques|🕖|
+|VC|Computer Vision|🕖|
 
 ### 1.4 Choice 
 
-Total credits: 30
-
-#### 1.4.1 Subjects: 
-
-Total credits: 12
-
-|Acronym|Real name |English translation|State|link to folder|Credits worth|
-|-------|----------|-------------------|-----|--------------|-------------|
-||||To do|[]()|6|
-||||To do|[]()|6|
-
 Candidates: 
 
-- Programación de dispositivos móviles
-- Tratamiento de imágenes digitales
-- Sistemas de Información geográficos
-- Seguridad en SO 
-- Programación Paralela
-- Criptografía y computación 
-- Teoría de la información y la codificación 
-- Desarrollo de aplicaciones para internet 
-- Seguridad y protección de sitemas informáticos 
-- Tecnologías web
-- administración de bases de datos
-- programación web 
-- Tecnologías de red 
-- Sistemas de información basados en web 
-- Diseño de interfaces de usuario
-- Metodologías de desarrollo ágil 
+- Internship
 
-#### 1.4.2 Languages: 
-
-Total credits: 6
-
-- English B2 Done (2 credits)
-- English C1 To do (4 credits)
-
-#### 1.4.3 Internship: 
-
-Total credits: 12
-
-To do (12 credits)
-
-#### 1.4.4 Delegate of my class
-
-Total credits: 2 
-
-- During my second year: doing
-- During my third or fourth year: to do 
-
-#### 1.4.5 Cultural activities 
-
-Total credits: 4
-
-- MOOC Machine Learning y Big Data para la Bioinformática 2nd Edition
-
+|Priority|First quarter|Second quarter|
+|--------|-------------|--------------|
+|1|DAI /Aplicaciones Internet/|DIU /Interfaces/|
+|2|SSO /Seguridad Sistemas Operativos/|SIBW /Web/|
+|3|SPSI /Seguridad Sistemas/|TW /web/|
+|4|MDA /Desarrollo ágil/|PW /web/|
+|5|DGP /Dirección Proyectos/|DSD /Sistemas Distribuidos/|
+|6|TR /Red/|DS /Desarrollo Software/|
+|7|IV /Infraestructura virtual/|SWAP /Sistemas web/|
+|8|DBA /Agentes/|SM /Sistemas multimedia/|
+|9|?|CUEIA/IOT/|
+|10|?|TDRC/Redes2/|
 
 ### 1.5 TFG / End of degree project
 
