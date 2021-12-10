@@ -21,8 +21,8 @@
 
 |Acronym|About|State|
 |-------|-----|-----|
-|ED|Data Structures|✔|
-|EC|Computer Organization|✔|
+|[ED](https://github.com/Cristinasj/practica2ED)|Data Structures|✔|
+|[EC](https://github.com/Cristinasj/arduino)|Computer Organization|✔|
 |PDOO|Object Oriented Programming|✔|
 |SCD|Distributed and Concurrent programming|✔|
 |SO|Operating Systems|✔|
@@ -33,8 +33,8 @@
 |FBD|Databases Fundamentals|✔|
 |DDSI|Information Systems Development|✍|
 |FR|Networks Fundamentals|✍|
-|IG|Graphics Computing|✍|
-|ISE|Server Engeniering|✍|
+|[IG](https://github.com/Cristinasj/IG)|Graphics Computing|✍|
+|[ISE](https://github.com/Cristinasj/ISE)|Server Engeniering|✍|
 |MC|Computing Models|✍|
 
 ### 1.3 Specialty (CSI) Intelligent Systems and Computing
@@ -69,8 +69,6 @@ Candidates:
 |9|?|CUEIA/IOT/|
 |10|?|TDRC/Redes2/|
 
-### 1.5 TFG / End of degree project
-
-Total credits: 12
+### 1.5 [TFG](https://github.com/Cristinasj/SWADroid-timeline) (End of degree project)
 
 ## 2. Cybersecurity master
