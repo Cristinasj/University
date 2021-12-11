@@ -58,16 +58,16 @@ Candidates:
 
 |Priority|First quarter|Second quarter|
 |--------|-------------|--------------|
-|1|DAI /Aplicaciones Internet/|DIU /Interfaces/|
-|2|SSO /Seguridad Sistemas Operativos/|SIBW /Web/|
-|3|SPSI /Seguridad Sistemas/|TW /web/|
-|4|MDA /Desarrollo ágil/|PW /web/|
-|5|DGP /Dirección Proyectos/|DSD /Sistemas Distribuidos/|
-|6|TR /Red/|DS /Desarrollo Software/|
-|7|IV /Infraestructura virtual/|SWAP /Sistemas web/|
-|8|DBA /Agentes/|SM /Sistemas multimedia/|
-|9|?|CUEIA/IOT/|
-|10|?|TDRC/Redes2/|
+|1|DAI (web apps) |DIU (interfaces)|
+|2|SSO (OS security)|SIBW (web programming)|
+|3|SPSI (systems security) |TW (web programming)|
+|4|MDA (agile development) |PW (web programming)|
+|5|DGP (project management) |DSD (distributed systems)|
+|6|TR (networks) |DS (software development) |
+|7|IV (virtual infraestructure)|SWAP (web servers)|
+|8|DBA (agents)|SM (multimedia systems)|
+|9|?|CUEIA (iot)|
+|10|?|TDRC (networks)|
 
 ### 1.5 [TFG](https://github.com/Cristinasj/SWADroid-timeline) (End of degree project)
 
