@@ -23,7 +23,7 @@
 |-------|-----|-----|
 |[ED](https://github.com/Cristinasj/practica2ED)|Data Structures|✔|
 |[EC](https://github.com/Cristinasj/arduino)|Computer Organization|✔|
-|PDOO|Object Oriented Programming|✔|
+|[PDOO](https://github.com/inowen/Civitas)|Object Oriented Programming|✔|
 |SCD|Distributed and Concurrent programming|✔|
 |SO|Operating Systems|✔|
 |ALG|Algorithmics|✔|
