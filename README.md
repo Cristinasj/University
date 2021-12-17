@@ -62,12 +62,12 @@ Candidates:
 |2|SSO (OS security)|SIBW (web programming)|
 |3|SPSI (systems security) |TW (web programming)|
 |4|MDA (agile development) |PW (web programming)|
-|5|DGP (project management) |DSD (distributed systems)|
-|6|TR (networks) |DS (software development) |
-|7|IV (virtual infraestructure)|SWAP (web servers)|
+|5|DGP (project management) |SWAP (web servers)|
+|6|TR (networks) |DSD (distributed systems) |
+|7|IV (virtual infraestructure)|TDRC (networks)|
 |8|DBA (agents)|SM (multimedia systems)|
 |9|?|CUEIA (iot)|
-|10|?|TDRC (networks)|
+|10|?|DS (software development)|
 
 ### 1.5 [TFG](https://github.com/Cristinasj/SWADroid-timeline) (End of degree project)
 
