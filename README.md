@@ -31,7 +31,7 @@
 |AC|Computer Architechture|✔|
 |[IA](https://github.com/Cristinasj/chatBot)|Artificial Intelligence|✔|
 |FBD|Databases Fundamentals|✔|
-|DDSI|Information Systems Development|✍|
+|[DDSI](https://github.com/Cristinasj/DDSI-X)|Information Systems Development|✍|
 |FR|Networks Fundamentals|✍|
 |[IG](https://github.com/Cristinasj/IG)|Graphics Computing|✍|
 |[ISE](https://github.com/Cristinasj/ISE)|Server Engeniering|✍|
