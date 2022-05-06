@@ -34,21 +34,20 @@
 |[DDSI](https://github.com/Cristinasj/DDSI-X)|Information Systems Development|✔|
 |[FR](https://github.com/Cristinasj/FR)|Networks Fundamentals|✔|
 |[IG](https://github.com/Cristinasj/IG)|Graphics Computing|✔️|
-
 |[ISE](https://github.com/Cristinasj/ISE)|Server Engeniering|✔|
-|MC|Computing Models|✍|
+|MC|Computing Models|✔|
 
 ### 1.3 Specialty (CSI) Intelligent Systems and Computing
 
 |Acronym|About|State|
 |-------|-----|-----|
-|AA|Machine Learning|🕖|
-|IC|Knoledge Engenieering|🕖|
-|MH|Metaheuristics|🕖|
-|MAC|Advanced Computing Models|🕖|
+|AA|Machine Learning|✍|
+|IC|Knoledge Engenieering|✍|
+|MH|Metaheuristics|✍|
+|MAC|Advanced Computing Models|✍|
+|TSI|Intelligent Systems Techniques|✍|
 |NPI|New Interacting Paradigms|🕖|
 |PL|Languages Procesing|🕖|
-|TSI|Intelligent Systems Techniques|🕖|
 |VC|Computer Vision|🕖|
 
 ### 1.4 Choice 
