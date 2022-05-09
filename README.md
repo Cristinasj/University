@@ -66,7 +66,7 @@ Candidates:
 |6|TR (networks) |DSD (distributed systems) |
 |7|IV (virtual infraestructure)|TDRC (networks)|
 |8|DBA (agents)|SM (multimedia systems)|
-|9|EISI (Law)|CUEIA (iot)|
+|9|Derecho e Informática (Law)|CUEIA (iot)|
 |10|?|DS (software development)|
 
 ### 1.5 [TFG](https://github.com/Cristinasj/SWADroid-timeline) (End of degree project)
