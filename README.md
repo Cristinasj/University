@@ -58,10 +58,10 @@ Candidates:
 
 |Priority|First quarter|Second quarter|
 |--------|-------------|--------------|
-|1|DAI (web apps) |DIU (interfaces)|
-|2|SSO (OS security)|SIBW (web programming)|
-|3|SPSI (systems security) |TW (web programming)|
-|4|MDA (agile development) |PW (web programming)|
+|1|DAI (web apps) |SIBW (web programming)|
+|2|SSO (OS security)|TW (web programming)|
+|3|SPSI (systems security) |PW (web programming)|
+|4|MDA (agile development) |DIU (interfaces)|
 |5|DGP (project management) |SWAP (web servers)|
 |6|TR (networks) |DSD (distributed systems) |
 |7|IV (virtual infraestructure)|TDRC (networks)|
