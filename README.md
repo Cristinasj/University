@@ -71,4 +71,4 @@ Candidates:
 
 ### 1.5 [TFG](https://github.com/Cristinasj/SWADroid-timeline) (End of degree project)
 
-## 2. Cybersecurity master
+## 2. Master
