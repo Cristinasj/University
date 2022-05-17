@@ -34,21 +34,20 @@
 |[DDSI](https://github.com/Cristinasj/DDSI-X)|Information Systems Development|✔|
 |[FR](https://github.com/Cristinasj/FR)|Networks Fundamentals|✔|
 |[IG](https://github.com/Cristinasj/IG)|Graphics Computing|✔️|
-
 |[ISE](https://github.com/Cristinasj/ISE)|Server Engeniering|✔|
-|MC|Computing Models|✍|
+|MC|Computing Models|✔|
 
 ### 1.3 Specialty (CSI) Intelligent Systems and Computing
 
 |Acronym|About|State|
 |-------|-----|-----|
-|AA|Machine Learning|🕖|
-|IC|Knoledge Engenieering|🕖|
-|MH|Metaheuristics|🕖|
-|MAC|Advanced Computing Models|🕖|
+|AA|Machine Learning|✍|
+|IC|Knoledge Engenieering|✍|
+|MH|Metaheuristics|✍|
+|MAC|Advanced Computing Models|✍|
+|TSI|Intelligent Systems Techniques|✍|
 |NPI|New Interacting Paradigms|🕖|
 |PL|Languages Procesing|🕖|
-|TSI|Intelligent Systems Techniques|🕖|
 |VC|Computer Vision|🕖|
 
 ### 1.4 Choice 
@@ -59,17 +58,17 @@ Candidates:
 
 |Priority|First quarter|Second quarter|
 |--------|-------------|--------------|
-|1|DAI (web apps) |DIU (interfaces)|
-|2|SSO (OS security)|SIBW (web programming)|
-|3|SPSI (systems security) |TW (web programming)|
-|4|MDA (agile development) |PW (web programming)|
-|5|DGP (project management) |SWAP (web servers)|
-|6|TR (networks) |DSD (distributed systems) |
-|7|IV (virtual infraestructure)|TDRC (networks)|
-|8|DBA (agents)|SM (multimedia systems)|
-|9|?|CUEIA (iot)|
-|10|?|DS (software development)|
+|1|Derecho e Informática (Law)|SIBW (web programming)|
+|2|Programación Técnica y Científica (Advanced Python)|TW (web programming)|
+|3|DAI (web apps)|PW (web programming)|
+|4|SSO (OS security)|DIU (interfaces)|
+|5|SPSI (systems security)|SWAP (web servers)|
+|6|MDA (agile development)|DSD (distributed systems) |
+|7|DGP (project management)|TDRC (networks)|
+|8|TR (networks) |SM (multimedia systems)|
+|9|IV (virtual infraestructure)|CUEIA (iot)|
+|10|DBA (agents)|DS (software development)|
 
 ### 1.5 [TFG](https://github.com/Cristinasj/SWADroid-timeline) (End of degree project)
 
-## 2. Cybersecurity master
+## 2. Master
