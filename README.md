@@ -50,8 +50,12 @@
 |NPI|New Interacting Paradigms|🕖|
 
 ### (TIC) 
+SWAP
+DAI
 
 ### (IS) Software Engenieering 
+DIU
+SIBW
 
 ### 1.4 Choice 
 
