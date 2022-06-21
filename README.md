@@ -37,18 +37,33 @@
 |[ISE](https://github.com/Cristinasj/ISE)|Server Engeniering|✔|
 |MC|Computing Models|✔|
 
-### 1.3 Specialty (CSI) Intelligent Systems and Computing
+### 1.3 Specialty 
+### 3º segundo cuatri (CSI) Intelligent Systems and Computing
 
 |Acronym|About|State|
 |-------|-----|-----|
-|AA|Machine Learning|✍|
-|IC|Knoledge Engenieering|✍|
+|AA|Machine Learning|❌|
+|IC|Knoledge Engenieering|❌|
 |MH|Metaheuristics|✍|
 |MAC|Advanced Computing Models|✍|
 |TSI|Intelligent Systems Techniques|✍|
-|NPI|New Interacting Paradigms|🕖|
-|PL|Languages Procesing|🕖|
-|VC|Computer Vision|🕖|
+
+Quedan 6 obligatorias 5 optativas 1 TFG 
+
+### 4º primer cuatri 
+|Acronym|About|State|Specialty|
+|-------|-----|-----|------------|
+|NPI|New Interacting Paradigms|🕖|CSI|
+|DAI|Internet Applications|🕖|TIC|
+
+### 4º segundo cuatri 
+|Acronym|About|State|Specialty|
+|-------|-----|-----|------------|
+|AA|Machine Learning|🕖|CSI|
+|SWAP|High Quality Web Services||TIC|
+|CUIA|IOT||TIC|
+|DIU|UI||IS|
+|SIBW|Web Programming||IS|
 
 ### 1.4 Choice 
 
@@ -67,7 +82,7 @@ Candidates:
 |7|DGP (project management)|TDRC (networks)|
 |8|TR (networks) |SM (multimedia systems)|
 |9|IV (virtual infraestructure)|CUEIA (iot)|
-|10|DBA (agents)|DS (software development)|
+|10|||
 
 ### 1.5 [TFG](https://github.com/Cristinasj/SWADroid-timeline) (End of degree project)
 
