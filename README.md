@@ -54,35 +54,32 @@ Quedan 6 obligatorias 5 optativas 1 TFG
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
 |NPI|New Interacting Paradigms|🕖|CSI|
+|PL|Procesadores de Lenguajes|🕖|CSI|
+|VC|Visión Por Computador|🕖|CSI|
 |DAI|Internet Applications|🕖|TIC|
+|PTC|Python programming|🕖|CSI|
+|TIC|Teoría de la Información y la Codificación||Optativa|
+|TR|Tecnologías de Red||IC|
+|MDA|Metodologías de Desarrollo Ágiles||IS|
+|RSC|Redes Y Sistemas complejos||Optativa|
+|SSO|Seguridad en Sistemas Operativos||Optativa|
+|SPSI|Seguridad y Protección de Sistemas informáticos||TIC|
 
 ### 4º segundo cuatri 
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
 |AA|Machine Learning|🕖|CSI|
+||||CSI|
+||||CSI|
 |SWAP|High Quality Web Services||TIC|
 |CUIA|IOT||TIC|
 |DIU|UI||IS|
 |SIBW|Web Programming||IS|
+|DI|Derecho e informática|||
+|TW|Web programming||
+|PW|Web programming||
+|TDRC|Transmisión de datos y redes de computadores||
 
-### 1.4 Choice 
-
-Candidates: 
-
-- Internship
-
-|Priority|First quarter|Second quarter|
-|--------|-------------|--------------|
-|1|Derecho e Informática (Law)|SIBW (web programming)|
-|2|Programación Técnica y Científica (Advanced Python)|TW (web programming)|
-|3|DAI (web apps)|PW (web programming)|
-|4|SSO (OS security)|DIU (interfaces)|
-|5|SPSI (systems security)|SWAP (web servers)|
-|6|MDA (agile development)|DSD (distributed systems) |
-|7|DGP (project management)|TDRC (networks)|
-|8|TR (networks) |SM (multimedia systems)|
-|9|IV (virtual infraestructure)|CUEIA (iot)|
-|10|||
 
 ### 1.5 [TFG](https://github.com/Cristinasj/SWADroid-timeline) (End of degree project)
 
