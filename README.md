@@ -75,10 +75,10 @@ Quedan 6 obligatorias 5 optativas 1 TFG
 |CUIA|IOT||TIC|
 |DIU|UI||IS|
 |SIBW|Web Programming||IS|
-|DI|Derecho e informática|||
-|TW|Web programming||
-|PW|Web programming||
-|TDRC|Transmisión de datos y redes de computadores||
+|DI|Derecho e informática||Optativa|
+|TW|Web programming||IS|
+|PW|Web programming||TIC|
+|TDRC|Transmisión de datos y redes de computadores||TIC|
 
 
 ### 1.5 [TFG](https://github.com/Cristinasj/SWADroid-timeline) (End of degree project)
