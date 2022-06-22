@@ -71,6 +71,7 @@ Quedan 6 obligatorias 5 optativas 1 TFG
 |AA|Machine Learning|🕖|CSI|
 ||||CSI|
 ||||CSI|
+|CC|Criptografía y Computación||Optativa|
 |SWAP|High Quality Web Services||TIC|
 |CUIA|IOT||TIC|
 |DIU|UI||IS|
