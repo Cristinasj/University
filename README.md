@@ -71,14 +71,14 @@ Quedan 6 obligatorias 5 optativas 1 TFG
 |AA|Machine Learning|🕖|CSI|
 ||||CSI|
 ||||CSI|
+|SIBW|Web Programming||IS|
+|PW|Web programming||SI|
+|TW|Web programming||TIC|
 |CC|Criptografía y Computación||Optativa|
 |SWAP|High Quality Web Services||TIC|
 |CUIA|IOT||TIC|
 |DIU|UI||IS|
-|SIBW|Web Programming||IS|
 |DI|Derecho e informática||Optativa|
-|TW|Web programming||IS|
-|PW|Web programming||TIC|
 |TDRC|Transmisión de datos y redes de computadores||TIC|
 
 
