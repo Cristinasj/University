@@ -53,14 +53,14 @@ Quedan 6 obligatorias 5 optativas 1 TFG
 ### 4º primer cuatri 
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
+|DAI|Internet Applications|🕖|TIC|
+|MDA|Metodologías de Desarrollo Ágiles||IS|
+|PTC|Python programming|🕖|Optativa|
 |NPI|New Interacting Paradigms|🕖|CSI|
 |PL|Procesadores de Lenguajes|🕖|CSI|
 |VC|Visión Por Computador|🕖|CSI|
-|DAI|Internet Applications|🕖|TIC|
-|PTC|Python programming|🕖|CSI|
 |TIC|Teoría de la Información y la Codificación||Optativa|
 |TR|Tecnologías de Red||IC|
-|MDA|Metodologías de Desarrollo Ágiles||IS|
 |RSC|Redes Y Sistemas complejos||Optativa|
 |SSO|Seguridad en Sistemas Operativos||Optativa|
 |SPSI|Seguridad y Protección de Sistemas informáticos||TIC|
@@ -68,16 +68,16 @@ Quedan 6 obligatorias 5 optativas 1 TFG
 ### 4º segundo cuatri 
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
-|AA|Machine Learning|🕖|CSI|
-||||CSI|
-||||CSI|
 |SIBW|Web Programming||IS|
 |PW|Web programming||SI|
 |TW|Web programming||TIC|
-|CC|Criptografía y Computación||Optativa|
+|DIU|UI||IS|
+|AA|Machine Learning|🕖|CSI|
 |SWAP|High Quality Web Services||TIC|
 |CUIA|IOT||TIC|
-|DIU|UI||IS|
+||||CSI|
+||||CSI|
+|CC|Criptografía y Computación||Optativa|
 |DI|Derecho e informática||Optativa|
 |TDRC|Transmisión de datos y redes de computadores||TIC|
 
