@@ -71,6 +71,7 @@ Quedan 6 obligatorias 5 optativas 1 TFG
 |SIBW|Web Programming||IS|
 |PW|Web programming||SI|
 |TW|Web programming||TIC|
+|DS|Desarrollo Software con Flutter||IS|
 |DIU|UI||IS|
 |AA|Machine Learning|🕖|CSI|
 |SWAP|High Quality Web Services||TIC|
