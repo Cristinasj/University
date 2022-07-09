@@ -53,13 +53,10 @@ Quedan 6 obligatorias 5 optativas 1 TFG
 ### 4º primer cuatri 
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
-|PTC|Python programming|🕖|Optativa|
 |NPI|New Interacting Paradigms|🕖|CSI|
 |PL|Procesadores de Lenguajes|🕖|CSI|
 |VC|Visión Por Computador|🕖|CSI|
-|TIC|Teoría de la Información y la Codificación||Optativa|
 |DAI|Internet Applications|🕖|TIC|
-|MDA|Metodologías de Desarrollo Ágiles||IS|
 |TR|Tecnologías de Red||IC|
 |RSC|Redes Y Sistemas complejos||Optativa|
 |SSO|Seguridad en Sistemas Operativos||Optativa|
@@ -70,16 +67,14 @@ Quedan 6 obligatorias 5 optativas 1 TFG
 |-------|-----|-----|------------|
 |AA|Machine Learning|🕖|CSI|
 |TSI|||CSI|
-||||CSI|
+|MH|||CSI|
 |SIBW|Web Programming||IS|
 |PW|Web programming||SI|
 |TW|Web programming||TIC|
-|DI|Derecho e informática||Optativa|
 |DS|Desarrollo Software con Flutter||IS|
 |DIU|UI||IS|
 |SWAP|High Quality Web Services||TIC|
 |CUIA|IOT||TIC|
-|CC|Criptografía y Computación||Optativa|
 |TDRC|Transmisión de datos y redes de computadores||TIC|
 
 
