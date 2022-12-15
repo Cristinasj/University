@@ -44,8 +44,8 @@
 |-------|-----|-----|
 |AA|Machine Learning|❌|
 |IC|Knoledge Engenieering|✔️|
-|MH|Metaheuristics|✍|
-|MAC|Advanced Computing Models|✍|
+|MH|Metaheuristics|❌|
+|MAC|Advanced Computing Models|✔️|
 |TSI|Intelligent Systems Techniques|❌|
 
 Quedan 6 obligatorias 5 optativas 1 TFG 
@@ -53,29 +53,49 @@ Quedan 6 obligatorias 5 optativas 1 TFG
 ### 4º primer cuatri 
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
-|NPI|New Interacting Paradigms|🕖|CSI|
-|PL|Procesadores de Lenguajes|🕖|CSI|
-|VC|Visión Por Computador|🕖|CSI|
-|DAI|Internet Applications|🕖|TIC|
-|TR|Tecnologías de Red||IC|
-|RSC|Redes Y Sistemas complejos||Optativa|
-|SSO|Seguridad en Sistemas Operativos||Optativa|
-|SPSI|Seguridad y Protección de Sistemas informáticos||TIC|
+|NPI|New Interacting Paradigms|✍|CSI|
+|PL|Procesadores de Lenguajes|❌|CSI|
+|VC|Visión Por Computador|❌|CSI|
+|PTC|Pyhton|✍|TIC|
+|TIC|Codification|✍|IC|
+
+Quedarían 5 obligatorias 3 optativas 1 TFG 
 
 ### 4º segundo cuatri 
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
-|AA|Machine Learning|🕖|CSI|
-|TSI|||CSI|
-|MH|||CSI|
-|SIBW|Web Programming||IS|
-|PW|Web programming||SI|
-|TW|Web programming||TIC|
-|DS|Desarrollo Software con Flutter||IS|
+|TSI||🕐|CSI|
+|MH||🕐|CSI|
+|PW|Web programming|🕐|SI|
+|SWAP|High Quality Web Services|🕐|TIC|
+|SMP||🕐|IC|
+|AO|||Optativa|
+|PPR|||Optativa|
 |DIU|UI||IS|
-|SWAP|High Quality Web Services||TIC|
-|CUIA|IOT||TIC|
-|TDRC|Transmisión de datos y redes de computadores||TIC|
+|ABD|Database administration||SI|
+|SIBW|Web Programming||IS|
+|TW|Web programming||TIC|
+|CUIA|||TIC|
+
+Quedarían 1 obligatorias 3 optativas 1 TFG 
+
+### 5º Primer cuatri 
+|DAI||🕐|TIC|
+|SS|Systems Simulation|🕐|Optativa| 
+|Practicas empresa|Internship|🕐|Optativa|
+|MDA|||IS|
+|DGP|||IS|
+|SE|||IC|
+|CPD|||IC|
+|TE|||Optativa|
+|MEI|||Optativa|
+|RSC|||Optativa|
+
+### 5º Segundo cuatri
+|TFG|Bacherlor's Project|||
+
+
+
 
 
 ### 1.5 [TFG](https://github.com/Cristinasj/SWADroid-timeline) (End of degree project)
