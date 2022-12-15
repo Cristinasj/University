@@ -56,8 +56,8 @@ Quedan 6 obligatorias 5 optativas 1 TFG
 |NPI|New Interacting Paradigms|✍|CSI|
 |PL|Procesadores de Lenguajes|❌|CSI|
 |VC|Visión Por Computador|❌|CSI|
-|PTC|Pyhton|✍|TIC|
-|TIC|Codification|✍|IC|
+|PTC|Pyhton|✍|Optativa|
+|TIC|Codification|✍|Optativa|
 
 Quedarían 5 obligatorias 3 optativas 1 TFG 
 
