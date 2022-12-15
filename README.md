@@ -80,6 +80,7 @@ Quedarían 5 obligatorias 3 optativas 1 TFG
 Quedarían 1 obligatorias 3 optativas 1 TFG 
 
 ### 5º Primer cuatri 
+|Acronym|About|State|Specialty|
 |DAI||🕐|TIC|
 |SS|Systems Simulation|🕐|Optativa| 
 |Practicas empresa|Internship|🕐|Optativa|
@@ -91,8 +92,11 @@ Quedarían 1 obligatorias 3 optativas 1 TFG
 |MEI|||Optativa|
 |RSC|||Optativa|
 
+Quedaría el TFG
+
 ### 5º Segundo cuatri
-|TFG|Bacherlor's Project|||
+|Acronym|About|State|Specialty|
+|TFG|Bacherlor's Project|🕐|TFG|
 
 
 
