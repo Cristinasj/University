@@ -57,7 +57,7 @@ Quedan 6 obligatorias 5 optativas 1 TFG
 |PTC|Pyhton|✍|Optativa|
 |TIC|Codification|✍|Optativa|
 
-Quedarían 5 obligatorias 3 optativas 1 TFG 
+Quedarían: 5 obligatorias, 1 optativa, 1 Prácticas de empresa y 1 TFG 
 
 ## 4º segundo cuatri 
 |Acronym|About|State|Specialty|
@@ -67,21 +67,18 @@ Quedarían 5 obligatorias 3 optativas 1 TFG
 |PW|Web programming|🕐|SI|
 |SWAP|High Quality Web Services|🕐|TIC|
 |SMP||🕐|IC|
-|AO|||Optativa|
-|PPR|||Optativa|
 |DIU|UI||IS|
 |ABD|Database administration||SI|
 |SIBW|Web Programming||IS|
 |TW|Web programming||TIC|
 |CUIA|||TIC|
 
-Quedarían 1 obligatorias 3 optativas 1 TFG 
+Quedarían 1 obligatorias, 1 prácticas de empresa, 1 optativas y 1 TFG 
 
 ## 5º Primer cuatri 
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
 |DAI||🕐|TIC|
-|SS|Systems Simulation|🕐|Optativa| 
 |Practicas empresa|Internship|🕐🕐|Optativa|
 |MDA|||IS|
 |DGP|||IS|
