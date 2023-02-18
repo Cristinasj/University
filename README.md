@@ -54,8 +54,8 @@ Quedan 6 obligatorias 5 optativas 1 TFG
 |NPI|New Interacting Paradigms|✍|CSI|
 |PL|Procesadores de Lenguajes|❌|CSI|
 |VC|Visión Por Computador|❌|CSI|
-|PTC|Pyhton|✍|Optativa|
-|TIC|Codification|✍|Optativa|
+|PTC|Pyhton|✔️|Optativa|
+|TIC|Codification|✔️|Optativa|
 
 Quedarían: 5 obligatorias, 1 optativa, 1 Prácticas de empresa y 1 TFG 
 
@@ -73,7 +73,7 @@ Quedarían: 5 obligatorias, 1 optativa, 1 Prácticas de empresa y 1 TFG
 |TW|Web programming||TIC|
 |CUIA|||TIC|
 
-Quedarían 1 obligatorias, 1 prácticas de empresa, 1 optativas y 1 TFG 
+Quedarían 3 obligatorias, 1 optativas y 1 TFG 
 
 ## 5º Primer cuatri 
 |Acronym|About|State|Specialty|
