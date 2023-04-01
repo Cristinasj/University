@@ -1,6 +1,6 @@
 # Computer Science degree
 
-## 1.1 Basic 
+## 1 Common subjects
 
 |Acronym|About|State|
 |-------|----|-----|
@@ -14,11 +14,6 @@
 |LMD|Logic and Descrete Mathematics|✔|
 |MP|Low level programming|✔|
 |TOC|Computer Organization and Architecture|✔|
-
-## 1.2 Specific 
-
-|Acronym|About|State|
-|-------|-----|-----|
 |[ED](https://github.com/Cristinasj/practica2ED)|Data Structures|✔|
 |[EC](https://github.com/Cristinasj/arduino)|Computer Organization|✔|
 |[PDOO](https://github.com/inowen/Civitas)|Object Oriented Programming|✔|
@@ -35,62 +30,45 @@
 |[ISE](https://github.com/Cristinasj/ISE)|Server Engeniering|✔|
 |MC|Computing Models|✔|
 
-## 1.3 Specialty 
-## 3º segundo cuatri (CSI) Intelligent Systems and Computing
+## 2 Choice subjects 
 
 |Acronym|About|State|
 |-------|-----|-----|
-|AA|Machine Learning|❌|
-|IC|Knoledge Engenieering|✔️|
-|MH|Metaheuristics|❌|
-|MAC|Advanced Computing Models|✔️|
-|TSI|Intelligent Systems Techniques|❌|
+|[IC](https://github.com/Cristinasj/IC)|Knoledge Engenieering|✔️|
+|[MAC](https://github.com/Cristinasj/MAC)|Advanced Computing Models|✔️|
+|[NPI](https://github.com/CarnifexRegis/P02-NPI)|New Interacting Paradigms|✔️|CSI|
+|[PTC](https://github.com/Cristinasj/PTC)|Pyhton|✔️|Optativa|
+|[TIC](https://github.com/Cristinasj/TIC)|Codification|✔️|Optativa| 
 
-Quedan 6 obligatorias 5 optativas 1 TFG 
-
-## 4º primer cuatri 
+### 2.1: current quarter 
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
-|NPI|New Interacting Paradigms|✍|CSI|
-|PL|Procesadores de Lenguajes|❌|CSI|
-|VC|Visión Por Computador|❌|CSI|
-|PTC|Pyhton|✔️|Optativa|
-|TIC|Codification|✔️|Optativa|
+|TSI|Intelligent Systems Technology|✍|CSI|
+|MH|Metaheuristics|✍|CSI|
+|JTSec Internship|Cibersecurity|✍✍|Internship|
 
-Quedarían: 5 obligatorias, 1 optativa, 1 Prácticas de empresa y 1 TFG 
+Pending: 3 compulsory, 1 optional y 1 TFG 
 
-## 4º segundo cuatri 
+### 2.2: 5th course, 1st quarter preferences (Choose 3 easy compulsory and TFG. I officialize optional credits) 
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
-|TSI||🕐|CSI|
-|MH||🕐|CSI|
-|PW|Web programming|🕐|SI|
+|TFG|Bacherlor's Project|🕐🕐|TFG|
+|DAI||🕐|TIC|
+|MDA||🕐|IS|
+|DGP||🕐|IS|
+|SE|||IC|
+|CPD|||IC|
+
+If everything goes according to plan I would be finished for January 
+
+### 2.3: 5th course, 2nd quarter preferences (Choose 1 easy compulsory in case I fail something during 1st course) 
+|Acronym|About|State|Specialty|
+|-------|-----|-----|------------|
 |SWAP|High Quality Web Services|🕐|TIC|
-|SMP||🕐|IC|
+|PW|Web programming||SI|
+|SMP|||IC|
 |DIU|UI||IS|
 |ABD|Database administration||SI|
 |SIBW|Web Programming||IS|
 |TW|Web programming||TIC|
 |CUIA|||TIC|
-
-Quedarían 3 obligatorias, 1 optativas y 1 TFG 
-
-## 5º Primer cuatri 
-|Acronym|About|State|Specialty|
-|-------|-----|-----|------------|
-|DAI||🕐|TIC|
-|Practicas empresa|Internship|🕐🕐|Optativa|
-|MDA|||IS|
-|DGP|||IS|
-|SE|||IC|
-|CPD|||IC|
-|TE|||Optativa|
-|MEI|||Optativa|
-|RSC|||Optativa|
-
-Quedaría el TFG
-
-## 5º Segundo cuatri
-|Acronym|About|State|Specialty|
-|-------|-----|-----|------------|
-|TFG|Bacherlor's Project|🕐🕐|TFG|
