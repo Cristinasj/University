@@ -43,7 +43,7 @@
 ### 2.1: current quarter 
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
-|TSI|Intelligent Systems Technology|✍|CSI|
+|[TSI](https://github.com/Cristinasj/TSI)|Intelligent Systems Technology|✍|CSI|
 |MH|Metaheuristics|✍|CSI|
 |JTSec Internship|Cibersecurity|✍✍|Internship|
 
