@@ -56,8 +56,9 @@ Pending: 3 compulsory, 1 optional y 1 TFG
 |DAI||🕐|TIC|
 |MDA||🕐|IS|
 |DGP||🕐|IS|
-|SE|||IC|
-|CPD|||IC|
+|SPSI|Cypher||TIC|
+|SE|Embeded Systems||IC|
+|CPD|Data Processing Centers||IC|
 
 If everything goes according to plan I would be finished for January 
 
@@ -65,10 +66,11 @@ If everything goes according to plan I would be finished for January
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
 |SWAP|High Quality Web Services|🕐|TIC|
-|PW|Web programming||SI|
-|SMP|||IC|
+|AS|||IC|
+|CUIA|||TIC|
 |DIU|UI||IS|
+|PW|Web programming||SI|
 |ABD|Database administration||SI|
+|SMP|||IC|
 |SIBW|Web Programming||IS|
 |TW|Web programming||TIC|
-|CUIA|||TIC|
