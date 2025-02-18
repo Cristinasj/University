@@ -69,9 +69,10 @@
 ## 4th Year 2nd Quarter  
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
-|SWAP|High Quality Web Services|🕐|TIC|
-|PW|Web programming||SI|
+|SWAP|High Quality Web Services|✔️|TIC|
+|PW|Web programming|✔️|SI|
 
 ## 5th Year 
+|Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
 |TFG|Bacherlor's Project|🕐🕐|TFG|
