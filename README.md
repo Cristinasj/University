@@ -47,7 +47,7 @@
 |[FR](https://github.com/Cristinasj/FR)|Networks Fundamentals|✔|
 |[IG](https://github.com/Cristinasj/IG)|Graphics Computing|✔️|
 |[ISE](https://github.com/Cristinasj/ISE)|Server Engeniering|✔|
-|MC|Computing Models|✔|
+|[MC](https://github.com/Cristinasj/MC)|Computing Models|✔|
 
 ## 3rd Year 2nd Quarter  (Choice subjects) 
 
