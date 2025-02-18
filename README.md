@@ -63,7 +63,7 @@
 |Acronym|About|State|Specialty|
 |-------|-----|-----|------------|
 |[TSI](https://github.com/Cristinasj/TSI)|Intelligent Systems Technology|✔️|CSI|
-|MH|Metaheuristics|✔️|CSI|
+|[MH](https://github.com/Cristinasj/Metaheuristics)|Metaheuristics|✔️|CSI|
 |JTSec Internship|Cibersecurity|✔️✔️|Internship|
 
 ## 4th Year 2nd Quarter  
